@@ -9,7 +9,7 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
 	return (
 		<html lang="en">
 			<body>
-				<link rel="icon" href="../../cleanlyCircle.jpg" />
+				<link rel="icon" href="/cleanlyCircle.jpg" />
 				{children}
 			</body>
 		</html>
